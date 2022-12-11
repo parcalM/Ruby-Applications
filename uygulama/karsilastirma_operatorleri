@@ -1,0 +1,5 @@
+# == eşitlik operatörü : Degerler birbirine eşitse true değilse false döndürür.
+
+a= 5
+b= 10
+puts a==b
